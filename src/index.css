@@ -1,3 +1,15 @@
+/* Glassmorphism/Neumorphism enhancements for cards */
+.glass-card {
+  background: rgba(255,255,255,0.10);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37), 0 1.5px 6px 0 rgba(0,0,0,0.18);
+  backdrop-filter: blur(18px) saturate(160%);
+  border-radius: 1.25rem;
+  border: 1.5px solid rgba(255,255,255,0.18);
+}
+@keyframes gradientMove {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
