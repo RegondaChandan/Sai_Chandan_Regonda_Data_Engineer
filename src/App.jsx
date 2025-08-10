@@ -268,7 +268,7 @@ export default function Portfolio() {
             <div className="flex flex-col md:flex-row items-center md:items-center gap-10 mb-6">
               <div className="flex-shrink-0 flex items-center justify-center w-full md:w-auto">
                 <img
-                  <img src={`${process.env.PUBLIC_URL}/sai.jpg`} ... />
+                  src={`${process.env.PUBLIC_URL}/sai.jpg`}
                   loading="lazy"
                   className="w-44 h-44 md:w-56 md:h-56 rounded-full object-cover object-top"
                   style={{ display: 'block' }}
@@ -329,7 +329,7 @@ export default function Portfolio() {
                 View Projects <ArrowRight className="w-4 h-4" />
               </a>
               <a
-                <a href={`${process.env.PUBLIC_URL}/SAI_CHANDAN_REGONDA_Data_Engineer.pdf`} ... />
+              href={`${process.env.PUBLIC_URL}/SAI_CHANDAN_REGONDA_Data_Engineer.pdf`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`inline-flex items-center gap-2 px-5 py-3 rounded-xl border ${color.stroke} hover:border-indigo-400 focus:outline-none focus:ring-2 focus:ring-indigo-400/60 focus:ring-offset-2 focus:ring-offset-transparent transition`}
