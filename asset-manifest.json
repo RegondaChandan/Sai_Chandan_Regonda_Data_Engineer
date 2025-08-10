@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Sai_Chandan_Regonda_Data_Engineer/static/css/main.883636b0.css",
-    "main.js": "/Sai_Chandan_Regonda_Data_Engineer/static/js/main.7fc18ab7.js",
+    "main.js": "/Sai_Chandan_Regonda_Data_Engineer/static/js/main.3c65332f.js",
     "static/js/453.537539f1.chunk.js": "/Sai_Chandan_Regonda_Data_Engineer/static/js/453.537539f1.chunk.js",
     "index.html": "/Sai_Chandan_Regonda_Data_Engineer/index.html",
     "main.883636b0.css.map": "/Sai_Chandan_Regonda_Data_Engineer/static/css/main.883636b0.css.map",
-    "main.7fc18ab7.js.map": "/Sai_Chandan_Regonda_Data_Engineer/static/js/main.7fc18ab7.js.map",
+    "main.3c65332f.js.map": "/Sai_Chandan_Regonda_Data_Engineer/static/js/main.3c65332f.js.map",
     "453.537539f1.chunk.js.map": "/Sai_Chandan_Regonda_Data_Engineer/static/js/453.537539f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.883636b0.css",
-    "static/js/main.7fc18ab7.js"
+    "static/js/main.3c65332f.js"
   ]
 }
